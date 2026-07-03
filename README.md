@@ -386,6 +386,7 @@ Response includes `routes.shortest`, `routes.safest`, `routes.balanced` each wit
 | Name | Role |
 |------|------|
 | **[Riddhi Ropalkar](https://github.com/RiddhiRopalkar)** | Project lead & repository maintainer |
+| **[Siddhi Ropalkar](https://github.com/s-ropalkar)** | Project lead & repository maintainer |
 
 > Add your name here via pull request if you contributed to SafePath AI.
 
